@@ -100,9 +100,9 @@ Install the following tools before running the project:
 
 ### 1. Clone the repository
 
-```bash
+[```bash
 git clone https://github.com/kklovesdaisy/BloodConnect.git
-```
+```](https://github.com/htet-nandar-winn/BloodConnect.git)
 
 ### 2. Move into the project directory
 
