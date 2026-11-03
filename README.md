@@ -164,7 +164,7 @@ The exact URL may depend on the application's entry point and routing configurat
 
 **Htet Nandar Winn**
 
-- GitHub: [@kklovesdaisy](https://github.com/kklovesdaisy)
+- GitHub: https://github.com/htet-nandar-winn
 - Project repository: [BloodConnect](https://github.com/kklovesdaisy/BloodConnect)
 
 ## 🔒 Security Notes
